@@ -1,0 +1,12 @@
+# Backups
+*.bak*
+*.old*
+
+# Audios
+*.wav
+*.flac
+
+# Videos
+*.mkv
+*.webm
+*.mp4
