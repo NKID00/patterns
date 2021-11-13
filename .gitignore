@@ -4,7 +4,6 @@
 
 # Audios
 *.wav
-*.flac
 
 # Videos
 *.mkv
